@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Juventius! 👋
 
 <!--
 **Juventius/Juventius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Skills:
-
-1. Intermediate Python Understanding for Data Analytics
-2. Leadership
+- 🔭 I’m currently a student at Telkom University
+- 🌱 I’m currently learning Informatics
+- 📝 Coding Languages: Python, Go, R, SQL, C++
+- 📫 How to reach me: email me at juventiusk@gmail.com
+- ⚡ Fun fact: I love food very much 😋
