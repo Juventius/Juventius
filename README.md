@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Skills:
+
+1. Intermediate Python Understanding for Data Analytics
+2. Leadership
