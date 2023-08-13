@@ -19,4 +19,3 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Informatics
 - 📝 Coding Languages: Python, Go, R, SQL, C++
 - 📫 How to reach me: email me at juventiusk@gmail.com
-- ⚡ Fun fact: I love food very much 😋
