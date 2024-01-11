@@ -1,4 +1,4 @@
-### Hi there, I'm Juventius! 👋
+### Hi there, I'm Juven! 👋
 
 <!--
 **Juventius/Juventius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently a student at Telkom University
 - 🌱 I’m currently learning Informatics
-- 📝 Coding Languages: Python, Go, R, SQL, C++
+- 📝 Coding Languages: Python, Go, R, SQL
 - 📫 How to reach me: email me at juventiusk@gmail.com
