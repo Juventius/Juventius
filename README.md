@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently a student at Telkom University
-- 🌱 I’m currently learning Informatics
-- 📝 Coding Languages: Python, Go, R, SQL
+- 🔭 Informatics graudate from Telkom University
+- 🌱 Currently learning Data Science and AI
+- 📝 Coding Languages: Python, SQL, HTML, CSS, JavaScript
 - 📫 How to reach me: email me at juventiusk@gmail.com
