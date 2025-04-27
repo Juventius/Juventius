@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 [Check out my projects portfolio!](https:/juven-projects-portfolio.my.canva.site/)
+- 🔭 [Check out my projects portfolio!](https://juven-projects-portfolio.my.canva.site/)
 - 📫 How to reach me: email me at juventiusk@gmail.com
