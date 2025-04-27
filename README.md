@@ -15,7 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Informatics graudate from Telkom University
-- 🌱 Currently learning Data Science and AI
-- 📝 Coding Languages: Python, SQL, HTML, CSS, JavaScript
+- 🔭 Check out my projects portfolio: https:/juven-projects-portfolio.my.canva.site/
 - 📫 How to reach me: email me at juventiusk@gmail.com
